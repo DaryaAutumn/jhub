@@ -18,3 +18,18 @@ docker run -d -p 80:8000 jhub:v1
 ```
 
 4. Visit http://localhost/hub/login. Now you can log in with `admin` / `admin` and try Jupyterhub notebook locally!
+
+5. Use 
+
+```bash
+docker stop /insert container id here/
+```
+
+ or
+
+```bash
+docker start /insert container id here/
+```
+
+ to stop and start your container.
+
