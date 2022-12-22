@@ -4,9 +4,9 @@
 
 # Try it out in Docker
 
-1. Download this repository on your computer/device by clicking 'code' button and 'download zip' button. Extract files from the downloaded archive.
+1. Download this repository on your computer/device by clicking `code` button and `download zip` button. Extract files from the downloaded archive.
 
-2. Open cotext menu for that folder and choose 'run in terminal'. This will allow you to run docker container and start Jupiterhub notebook.
+2. Open cotext menu for that folder and choose `run in terminal`. This will allow you to run docker container and start Jupiterhub notebook.
 
 3. Build and run the Docker image locally: try these commands in your terminal
 
