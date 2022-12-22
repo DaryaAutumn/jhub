@@ -12,6 +12,8 @@
 
 ```bash
 docker build -t jhub:v1 .
+```
+```bash
 docker run -d -p 80:8000 jhub:v1
 ```
 
